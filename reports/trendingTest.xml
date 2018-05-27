@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="trendingTest"
+    errors="1" failures="0" hostname="" id="" package="trendingTest" skipped="0"
+    tests="1" time="0.006000" timestamp="Fri, 25 May 2018 17:10:29 GMT">
+  
+    <testcase name="Verify trendy videos on left nav" classname="trendingTest" time="0.006000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Trending Test / Verify trendy videos on left nav]:
+
+  TypeError: utils(...).trendingVideosLeftNav is not a function
+    at Object.Verify trendy videos on left nav (C:\Users\Isabel\Desktop\Thinfilm\tests\trendingTest.js:9:24)
+    at Module.call (C:\Users\Isabel\Desktop\Thinfilm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\Isabel\Desktop\Thinfilm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:796:13)
+    at C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

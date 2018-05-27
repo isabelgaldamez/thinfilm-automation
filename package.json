@@ -1,0 +1,14 @@
+{
+  "name": "automationtest",
+  "version": "1.0.0",
+  "description": "To create automation test for thinfilm.",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Isabel",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}

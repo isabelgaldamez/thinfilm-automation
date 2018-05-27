@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="recommendedVideosTest"
+    errors="0" failures="0" hostname="" id="" package="recommendedVideosTest" skipped="0"
+    tests="2" time="8.261" timestamp="Sun, 27 May 2018 03:55:00 GMT">
+  
+    <testcase name="Verify recommended channel videos" classname="recommendedVideosTest" time="8.157" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Verify subscribe button is present" classname="recommendedVideosTest" time="0.1040" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

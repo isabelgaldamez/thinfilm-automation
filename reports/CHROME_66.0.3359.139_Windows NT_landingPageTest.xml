@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="landingPageTest"
+    errors="0" failures="0" hostname="" id="" package="landingPageTest" skipped="0"
+    tests="7" time="29.01" timestamp="Fri, 25 May 2018 16:54:25 GMT">
+  
+    <testcase name="Left rail navigation opens" classname="landingPageTest" time="25.93" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="YouTube navigations items" classname="landingPageTest" time="0.1780" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Best of YouTube navigation items" classname="landingPageTest" time="0.9980" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Browse channels navigation item" classname="landingPageTest" time="0.1000" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Sign in to see your channels item" classname="landingPageTest" time="0.3650" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="More from YouTube navigation items" classname="landingPageTest" time="0.2780" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="User set up naviagation items" classname="landingPageTest" time="1.168" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

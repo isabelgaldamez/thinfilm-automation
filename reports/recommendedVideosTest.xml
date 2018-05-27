@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="2">
+
+  <testsuite name="recommendedVideosTest"
+    errors="1" failures="0" hostname="" id="" package="recommendedVideosTest" skipped="1"
+    tests="2" time="0.005000" timestamp="Sun, 27 May 2018 01:52:53 GMT">
+  
+    <testcase name="Verify recommended channel videos" classname="recommendedVideosTest" time="0.005000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Recommended Videos Test / Verify recommended channel videos]:
+
+  TypeError: recommendedLocators.recommendedVideosAnnotation is not a function
+    at userSeesRecommendedChannels (C:\Users\Isabel\Desktop\Thinfilm\pages\recommendedVideos.js:19:63)
+    at Object.Verify recommended channel videos (C:\Users\Isabel\Desktop\Thinfilm\tests\recommendedVideosTest.js:11:36)
+    at Module.call (C:\Users\Isabel\Desktop\Thinfilm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\Isabel\Desktop\Thinfilm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:796:13)
+    at C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Isabel\Desktop\Thinfilm\node_modules\q\q.js:125:13)
+    </system-err>
+  
+
+  
+    
+    <testcase
+      name="Verify subscribe button is present" classname="recommendedVideosTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
